@@ -3,12 +3,14 @@
 
 
 
-Node.js
+Node.js:
 Express
 Pug
-Socket.io
+Socket.IO
 Opencv4nodejs
 MongoDB
+Johnny-Five
+Raspi-IO
 
 
 
